@@ -3,7 +3,6 @@ b = 20
 c = a + b
 
 if(c<30):
-
     print('Less than 30')
 
 elif(c==30):
@@ -12,12 +11,10 @@ elif(c==30):
 
     if(a==10):
         print("Is 10")
-        
+
     elif(a==1):
         print("Is 1")
 
-elif(c>30):
-    print('Greater than 30')
 
-else:
-    print('Equals 30')
+else:  #c>30
+    print('Greater than 30')
