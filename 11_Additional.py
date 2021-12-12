@@ -22,4 +22,4 @@ print(list(filter(lambda num: num%2==0, seq)))
 
 
 max = lambda a, b: (a, b)
-print(max(1,2))
+print(max(1,3))
