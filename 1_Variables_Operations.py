@@ -1,7 +1,7 @@
 # Documentation Purpose
 
 # Assignment Operator
-z = 10
+z = 100
 
 # Print the value
 print(z)
