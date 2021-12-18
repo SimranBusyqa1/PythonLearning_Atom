@@ -21,5 +21,5 @@ print(tuple(map(t, seq)))
 print(list(filter(lambda num: num%2==0, seq)))
 
 
-max = lambda a, b: (a, b)
+max = lambda a, b: (a*2, b*3)
 print(max(1,3))

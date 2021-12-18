@@ -2,7 +2,7 @@
 i = [1,2,3]
 print(i)
 
-i.insert(0,"hello")
+i.insert(1,"hello")
 print(i)
 #Nested Lists
 i1 = ['hi', 1,[1,2]]
